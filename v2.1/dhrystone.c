@@ -384,9 +384,9 @@
 
 /* Accuracy of timings and human fatigue controlled by next two lines */
 /*#define LOOPS	5000		/* Use this for slow or 16 bit machines */
-#define LOOPS	50000		/* Use this for slow or 16 bit machines */
+//#define LOOPS	50000		/* Use this for slow or 16 bit machines */
 /*#define LOOPS	500000		/* Use this for faster machines */
-
+#define LOOPS	10000000		/* Use this for slow or 16 bit machines */
 /* Compiler dependent options */
 #undef	NOENUM			/* Define if compiler has no enum's */
 #undef	NOSTRUCTASSIGN		/* Define if compiler can't assign structures */

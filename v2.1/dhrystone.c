@@ -386,7 +386,9 @@
 //#define LOOPS	5000		/* Use this for slow or 16 bit machines */
 //#define LOOPS	50000		/* Use this for slow or 16 bit machines */
 //#define LOOPS	500000		/* Use this for faster machines */
-#define LOOPS	10000000		//こちらを追加させていただいた
+//#define LOOPS	10000000     //こちらを追加させていただいた
+//#define LOOPS	100000000		
+#define LOOPS	1000000000
 /* Compiler dependent options */
 #undef	NOENUM			/* Define if compiler has no enum's */
 #undef	NOSTRUCTASSIGN		/* Define if compiler can't assign structures */

@@ -1,0 +1,16 @@
+Dhrystone(1.1) time for 10000000 passes = 0
+This machine benchmarks at 37037037 dhrystones/second
+Run 1: 37037037
+Dhrystone(1.1) time for 10000000 passes = 0
+This machine benchmarks at 43478260 dhrystones/second
+Run 2: 43478260
+Dhrystone(1.1) time for 10000000 passes = 0
+This machine benchmarks at 41666666 dhrystones/second
+Run 3: 41666666
+Dhrystone(1.1) time for 10000000 passes = 0
+This machine benchmarks at 41666666 dhrystones/second
+Run 4: 41666666
+Dhrystone(1.1) time for 10000000 passes = 0
+This machine benchmarks at 41666666 dhrystones/second
+Run 5: 41666666
+Average: 41103059

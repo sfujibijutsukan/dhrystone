@@ -5,7 +5,7 @@ results=()
 
 # Dhrystone を 3 回実行
 for i in {1..5}; do
-    # 実行結果を取得（ここではコマンドをシミュレート）
+    # 実行結果を取得
     output=$(v2.1/dhrystone_arm)
     
     # 値を抽出して配列に追加
